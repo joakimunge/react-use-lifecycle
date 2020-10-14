@@ -1,0 +1,16 @@
+{
+  "name": "lifecycle-hooks",
+  "version": "0.0.1",
+  "description": "Lifecycle methods for functional react components",
+  "keywords": [
+    "react",
+    "hooks",
+    "functional",
+    "lifecycle"
+  ],
+  "author": "Joakim Unge",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
